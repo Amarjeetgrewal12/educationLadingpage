@@ -1,0 +1,11 @@
+#bulb{
+ background-color: black;
+padding-left: 40px;
+
+}
+button{
+   height: 40px;
+   width: 80px;
+   cursor: pointer; 
+    margin-left: 434px;
+}
